@@ -130,7 +130,7 @@ importers:
         specifier: workspace:^
         version: link:../../packages/config-typescript
       '@trpc/server':
-        specifier: ^11.18.0
+        specifier: 11.18.0
         version: 11.18.0(typescript@5.9.3)
       '@types/node':
         specifier: 22.20.1
@@ -955,7 +955,7 @@ importers:
         specifier: 26.1.0
         version: 26.1.0
       monocart-reporter:
-        specifier: ^2.9.20
+        specifier: 2.12.2
         version: 2.12.2
       vite:
         specifier: 8.1.0
